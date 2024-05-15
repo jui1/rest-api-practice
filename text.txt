@@ -1,0 +1,16 @@
+REST API - JSON
+
+
+GET/users - data  - done
+GET/api/users - List all  users - done 
+
+GET /api/users/1 = get the user with id 1 - done
+
+
+
+POST /users - ctreate new user
+
+PATCH/users/1 - edit the user with id 1
+DELETE /users/1 - delete the user with id 1
+
+using mokaroo.com
